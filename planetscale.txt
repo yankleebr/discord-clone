@@ -1,5 +1,1 @@
-user:iond3lxcupxmxcxi62sb
-senha:pscale_pw_3DlpQdiMWkJH72L7s2demX1Z4tIl69hmXe32VIGp3uo
 
-mysql
-yankleebr
